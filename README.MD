@@ -1,4 +1,4 @@
-#Project Title
+# Project Title
 
 Donation Management Smart Contract
 
@@ -13,7 +13,7 @@ The smart contract facilitates seamless donation tracking and management by allo
 Overall, this project demonstrates the potential of blockchain technology to revolutionize donation management systems, offering increased transparency, efficiency, and trust in the process of giving back to communities and causes worldwide.
 
 
-#Getting Started
+# Getting Started
 
 Deploying and Interacting with Your Smart Contract
 
@@ -41,7 +41,7 @@ Congratulations! You've successfully deployed and interacted with your smart con
 
 
 
-#Code Explanation
+# Code Explanation
 
 The `Donations` smart contract is designed to manage and track donations across three distinct categories: environment, education, and medical. The contract includes four key state variables: `DonationsForEnvironment`, `DonationsForEducation`, `DonationsForMedical`, and `totalDonations`. Each of these variables is publicly accessible, ensuring transparency in the tracking of donation amounts.
 
@@ -53,6 +53,6 @@ In summary, this smart contract provides a simple yet effective way to manage an
 
 
 
-#License
+# License
 
 This project is licensed under the [MIT] License - see the LICENSE.md file for details.
