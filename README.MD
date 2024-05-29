@@ -55,4 +55,4 @@ In summary, this smart contract provides a simple yet effective way to manage an
 
 # License
 
-This project is licensed under the [MIT] License - see the LICENSE.md file for details.
+This project is licensed under the License - see the LICENSE.md file for details.
